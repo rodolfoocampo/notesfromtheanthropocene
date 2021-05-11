@@ -1,0 +1,1 @@
+Biólogo y filósofo chileno. Uno de los principales pensadores en el campo de la cibernética [[Cybernetics]]. En particular, parte de la corriente de [[Second Order Cybernetics]]. Acuño el término [[autopoiesis]].

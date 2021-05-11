@@ -1,0 +1,9 @@
+Several authors, both Western, Non-western and indigenous have recognised that indigenous ontologies tend to be relational, while Western ones tend to be categorical. Indigenous people tend to view the world as a whole, interconnected, and tend to have pantheistic religions, while westerners tend to see the world in categories, often hierarchical. (See, for example [[What is Shinto, Japan's indigenous religion?]], [[Maori cosmology and nature]], [[Judeochristiany and nature]]). 
+
+Josep Heinrich, a Harvard professor of human evolutionary biology [has argued](https://www.theatlantic.com/magazine/archive/2020/10/joseph-henrich-weird-people/615496/) this is a key difference in how Western and Non-Western cultures see the world. He argues that people from Western and Non-Western cultures: 
+
+	*possess opposing cognitive styles. They think differently. Standing apart from the community, primed to break wholes into parts and classify them, Westerners are more analytical. People from kinship-intensive cultures, by comparison, tend to think more holistically. They focus on relationships rather than categories. Henrich defends this sweeping thesis with several studies, including a test known as the Triad Task. Subjects are shown three images—say, a rabbit, a carrot, and a cat. The goal is to match a “target object”—the rabbit—with a second object. A person who matches the rabbit with the cat classifies: The rabbit and the cat are animals. A person who matches the rabbit with the carrot looks for relationships between the objects: The rabbit eats the carrot.*
+
+The indigenous notion of [[extended kinship]] is crucial in this understanding, and kinship is extended beyond the immediate family. Even in non-indigenous, non-western cultures, like India or Mexico it is common to extend kinship bonds beyond the nuclear family. 
+
+This note is in #growing stage. I need more reference to further cement the arguments. 

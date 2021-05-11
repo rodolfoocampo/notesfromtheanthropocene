@@ -1,0 +1,10 @@
+[[Paul Pangaro]]'s' characterization of Cybernetics vs AI
+
+![](https://www.pangaro.com/assets/img/heroes/ai-versus-cybernetics.jpg)
+
+For Pangaro:
+	*[[Artificial Intelligence]] and [[Cybernetics]] are widely misunderstood to be the same thing. However, they differ in many dimensions. For example, Artificial Intelligence (AI) grew from a desire to make computers smart, whether smart like humans or just smart in some other way. Cybernetics grew from a desire to understand and build systems that can achieve goals, whether complex human goals or just goals like maintaining the temperature of a room under changing conditions. But behind the differences between each domain ("smart" computers versus "goal-directed" systems) are even deeper underlying conceptual differences, some of which are captured in this diagram. For example, AI (left) presumes that value lies in understanding "the world as it is" — which presumes that knowing the world is both possible and necessary. Cybernetics (right) holds that it is only necessary and only possible to be coupled to the world sufficiently to achieve goals, that is, to gain feedback in order to correct actions to achieve a goal. Thus, while both fields must have clear and inter-consistent concepts such as representation, memory, reality, and epistemology (middle), there are more differences than similarities.*
+
+However, I think that [[Symbolic and dynamical systems need each other]]. In that sense, I understand AI to be a symbolic systems and cybernetics a dynamical one. AI needs to be smart in the sense that it knows what is doing, whereas in cybernetics need only to perform the task, no matter if it doesn't know what is doing. For example [[Norbert Wiener]]'s anti-aircraft system uses feedback and regulates its behavior to shoot airplanes. It does not matter if the tool is aware of what it is doing. The only thing that matters is that it performs the task well. 
+
+This dichotomy presented by Pangaro resonates with the dichotomy presented by [[Structuralism]].

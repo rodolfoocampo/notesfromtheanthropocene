@@ -1,0 +1,3 @@
+If we treat AI as merely a tool, where we are superior beings there is a risk that AI may invert this hierarchy, so to empower and protect humans from AI, we should include AI in our “circle of relationships” and thereby create a reciprocal relationship between AI and humans (Maitra, 2020, citing Liu & Zawieska, 2017). 
+
+This concept was mentioned in one of the papers I reference in [[Indigenous knowledge and AI]]

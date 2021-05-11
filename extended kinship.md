@@ -1,0 +1,1 @@
+Humans are not only related to their nuclear family people, but also to non-nuclear members, animals, water and mountains. This is common in indigenous cultures, as well as non-western ones like India and rural Mexico, where family goes beyond mom, dad, and siblings. Family life is almost indistinguishable from community life.
